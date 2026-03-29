@@ -1,0 +1,88 @@
+[00:00:05] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 07ccc3fd-a9ea-3bd4-a107-d0b86675f27e timed out
+[00:00:05] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JaixBlue
+[00:00:05] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JaixBlue
+[00:00:13] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07ccc3fd-a9ea-3bd4-a107-d0b86675f27e
+[00:00:14] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07ccc3fd-a9ea-3bd4-a107-d0b86675f27e
+[00:00:14] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JaixBlue (07ccc3fd-a9ea-3bd4-a107-d0b86675f27e) successfully connected to voice chat
+[00:00:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /backpack migrate
+[00:00:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JaixBlue issued server command: /backpack liliana_YT
+[00:02:58] [Server thread/INFO] [/]: %vault_prefix% JaixBlue is bleeding..
+[00:03:17] [Server thread/INFO] [/]: %vault_prefix% JaixBlue has been revived by %vault_prefix% Liliana_YT!
+[00:03:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /backpack version
+[00:04:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /backpack
+[00:07:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Sweet Dreams]
+[00:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Sweet Dreams]
+[00:16:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Stone Age]
+[00:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Getting an Upgrade]
+[00:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Stone Age]
+[00:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Getting an Upgrade]
+[00:18:11] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT is bleeding..
+[00:18:39] [Server thread/INFO] [/]: %vault_prefix% JaixBlue is bleeding..
+[00:18:58] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT bled until death..
+[00:19:04] [Server thread/INFO] [/]: %vault_prefix% JaixBlue bled until death..
+[00:22:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JaixBlue issued server command: /tp @s -275 52.5 214
+[00:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JaixBlue: Teleported JaixBlue to -274.5, 52.5, 214.5]
+[00:22:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /tp @s -276 52.5 214
+[00:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Teleported Liliana_YT to -275.5, 52.5, 214.5]
+[00:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Acquire Hardware]
+[00:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Acquire Hardware]
+[00:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Isn't It Iron Pick]
+[00:30:42] [Server thread/INFO] [/]: %vault_prefix% JaixBlue is bleeding..
+[00:31:07] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT is bleeding..
+[00:31:25] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT bled until death..
+[00:31:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /tp @s -386 38.5 149
+[00:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Teleported Liliana_YT to -385.5, 38.5, 149.5]
+[00:31:42] [Server thread/INFO] [/]: %vault_prefix% JaixBlue died after bleeding..
+[00:31:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JaixBlue issued server command: /tp @s -374 37.5 158
+[00:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JaixBlue: Teleported JaixBlue to -373.5, 37.5, 158.5]
+[00:32:15] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT is bleeding so bad..
+[00:32:31] [Server thread/INFO] [/]: %vault_prefix% Liliana_YT died after bleeding..
+[00:32:45] [Async Chat Thread - 3/INFO] [/]: <Liliana_YT> mata a los zombies
+[00:32:47] [Server thread/INFO] [/]: %vault_prefix% JaixBlue is bleeding so bad..
+[00:32:50] [Async Chat Thread - 3/INFO] [/]: <Liliana_YT> f
+[00:32:52] [Async Chat Thread - 3/INFO] [/]: <JaixBlue> JAJAJAJA
+[00:32:55] [Server thread/INFO] [/]: %vault_prefix% JaixBlue bled until death..
+[00:33:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JaixBlue issued server command: /tp @s -385 38.5 148
+[00:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JaixBlue: Teleported JaixBlue to -384.5, 38.5, 148.5]
+[00:33:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /tp @s -385 39.5 147
+[00:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Teleported Liliana_YT to -384.5, 39.5, 147.5]
+[00:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT has made the advancement [Suit Up]
+[00:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Suit Up]
+[00:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue has made the advancement [Isn't It Iron Pick]
+[00:43:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JaixBlue lost connection: Disconnected
+[00:43:06] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JaixBlue
+[00:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JaixBlue left the game
+[00:43:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT lost connection: Disconnected
+[00:43:08] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liliana_YT
+[00:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT left the game
+[00:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[00:43:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[00:43:25] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
+[00:43:25] [Server thread/INFO] [com.alonsoaliaga.betterrevive.BetterRevive/]: [BetterRevive] Disabling BetterRevive v0.9.1-BETA
+[00:43:25] [Server thread/INFO] [/]:  
+[00:43:25] [Server thread/INFO] [/]: [BetterRevive] Plugin has been disabled!
+[00:43:25] [Server thread/INFO] [/]: [BetterRevive] Thank you for using my plugin!
+[00:43:25] [Server thread/INFO] [/]:  
+[00:43:25] [Server thread/INFO] [com.ranull.graves.Graves/]: [Graves] Disabling Graves v4.9
+[00:43:25] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[00:43:25] [Server thread/INFO] [org.popcraft.chunky.ChunkyBukkit/]: [Chunky] Disabling Chunky v1.4.40
+[00:43:25] [Server thread/INFO] [de.tr7zw.nbtapi.plugin.NBTAPI/]: [NBTAPI] Disabling NBTAPI v2.15.6
+[00:43:25] [Server thread/INFO] [at.pcgamingfreaks.MinepacksStandalone.Bukkit.Minepacks/]: [Minepacks] Disabling Minepacks v2.5.5-T20260104173759
+[00:43:26] [Server thread/INFO] [at.pcgamingfreaks.MinepacksStandalone.Bukkit.Minepacks/]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
+[00:43:26] [Server thread/INFO] [at.pcgamingfreaks.MinepacksStandalone.Bukkit.Minepacks/]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
+[00:43:26] [Server thread/INFO] [at.pcgamingfreaks.MinepacksStandalone.Bukkit.Minepacks/]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[00:43:26] [Server thread/INFO] [me.lucko.spark.bukkit.BukkitSparkPlugin/]: [spark] Disabling spark v1.10.119
+[00:43:26] [Server thread/INFO] [org.terraform.main.TerraformGeneratorPlugin/]: [TerraformGenerator] Disabling TerraformGenerator v12.0.0
+[00:43:26] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Disabling ClearLag v3.2.2
+[00:43:26] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[00:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[00:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[00:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:43:26] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
